@@ -135,7 +135,7 @@ npm run commit
 
 - [Acessar o diário](https://github.com/filipedeschamps/tabnews.com.br/wiki)
 
-## Contribuidores
+### Contribuidores
 
 <a href="https://github.com/filipedeschamps/tabnews.com.br/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=filipedeschamps/tabnews.com.br&max=500" alt="Lista de contribuidores" width="100%"/>
